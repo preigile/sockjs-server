@@ -1,0 +1,22 @@
+{
+  "name": "sockjs-server",
+  "version": "1.0.0",
+  "description": "Server on SockJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Preigile@github.com/preigile/sockjs-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preigile/sockjs-server/issues"
+  },
+  "homepage": "https://github.com/preigile/sockjs-server#readme",
+  "devDependencies": {
+    "sockjs": "^0.3.15"
+  }
+}
